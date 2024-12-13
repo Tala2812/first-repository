@@ -1,6 +1,6 @@
 def main():
 
-    text = "Привет из ветки dev!"
+    text = "Привет из ветки main!"
 
     # ANSI escape-коды для изменения цвета текста
     colors = [
